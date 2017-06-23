@@ -1,4 +1,4 @@
-#include <stdio.h>
+# Take-aways#include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
 #include <time.h>
@@ -37,7 +37,7 @@ int main()
     float kbctr=1;
     char EOG;
     int temp;
-    BEGIN:
+BEGIN:
     cycle=100;
     score=0;
     gap=MAX_gap;
